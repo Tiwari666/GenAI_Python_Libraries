@@ -121,5 +121,5 @@ The attractiveness of Diffusers for generative AI stems from its user-friendly i
 
 Link 1: https://datasciencedojo.com/blog/python-libraries-for-generative-ai/
 
-Link 2: Various online source
+Link 2: Various online sources
 
